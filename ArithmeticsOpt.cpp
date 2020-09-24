@@ -9,4 +9,7 @@ int mul(int a,int b)
 int power(int a,int b)
   return power(a,b)
   
+int sub(int a, int b)
+    return sub(a,b)
+  
 
