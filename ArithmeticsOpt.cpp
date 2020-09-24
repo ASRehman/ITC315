@@ -9,4 +9,6 @@ int mul(int a,int b)
 int power(int a,int b)
   return power(a,b)
   
-
+int ave(int a, int b,int c, int d)
+  return ave(a,b,c,d)
+  
