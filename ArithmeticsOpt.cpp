@@ -9,4 +9,15 @@ int mul(int a,int b)
 int power(int a,int b)
   return power(a,b)
   
-
+//added
+int max(int num1, int num2) {
+   
+   int result;
+ 
+   if (num1 > num2)
+      result = num1;
+   else
+      result = num2;
+ 
+   return result; 
+}
